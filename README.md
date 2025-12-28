@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first repository.
 <br>
-Author -- Satyam pandey
+Author -- Satyam pandey(apnacollege)
+
